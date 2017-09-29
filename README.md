@@ -1,3 +1,13 @@
+### Bilinear Pooling and Compact Bilinear Pooling(added on Sep 29, 2017)
+
+Add the bilinear pooling and compact bilinear pooling caffe implementation from [this](https://github.com/gy20073/compact_bilinear_pooling/tree/master/caffe-20160312).
+
+### A Common Feature Extraction Method(added on Sep 28, 2017)
+
+    ./tools/features_extract_binary_trimean.cpp
+
+
+
 # Caffe
 
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
